@@ -1,6 +1,6 @@
 {
     "name": "michaelhoughton/silverstripe-importexport",
-    "description": "An upgrade to SilverStripe's bulk loading and exporting",
+    "description": "An upgrade to SilverStripe's bulk loading and exporting for PHP 8.1",
     "type": "silverstripe-vendormodule",
     "license": "MIT",
     "keywords": [
