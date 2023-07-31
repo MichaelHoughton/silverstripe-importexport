@@ -1,5 +1,5 @@
 {
-    "name": "i-lateral/silverstripe-importexport",
+    "name": "michaelhoughton/silverstripe-importexport",
     "description": "An upgrade to SilverStripe's bulk loading and exporting",
     "type": "silverstripe-vendormodule",
     "license": "MIT",
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": ">=5.6",
+        "php": ">=8.1",
         "silverstripe/framework": "^4.2",
         "silverstripe/admin": "^1.2",
         "silverstripe/assets": "^1.2",
